@@ -7,8 +7,6 @@
 A fixed deposit (FD) is a financial instrument provided by banks or non-bank financial institutions which provides investors a higher rate of interest than a regular savings account, until the given maturity date. It may or may not require the creation of a separate account.
 
 
-[![PNG - 7  How to Use Custom Feature of Managing Fixed-Deposit in ERPNext](https://user-images.githubusercontent.com/18363620/237381063-2eba167f-57f6-4ffb-96fd-e8f2e637d454.png)](https://youtu.be/hZTaBWUbmf0)
-
 
 ## How to use App:
 
